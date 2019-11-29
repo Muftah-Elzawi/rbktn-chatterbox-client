@@ -7,6 +7,9 @@ var FormView = {
   },
 
   handleSubmit: function(event) {
+    // var $input = $('#input')
+    // Messages.text =$input;
+    // console.log($input, 'this')
     // Stop the browser from submitting the form
     event.preventDefault();
     
